@@ -1,1 +1,1 @@
-proyecto usando mvc un abm de carrito del lado cliente y empleado, usando eclipse
+proyecto usando mvc un abm de carrito con cliente y empleado, usando eclipse
